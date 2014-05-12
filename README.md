@@ -15,9 +15,14 @@ it
 
 
 
-Gotchas |  Std Out
+# Gotchas |  Std Out
 HsetBuffering
+NoBuffering
 
 
 System.IO
 
+
+
+
+If you want the out of haskell to be consumed by other unix like stuff ^ 
